@@ -7,12 +7,13 @@
 4. Далее "Personal access tokens" и выбрать "Tokens (classic)"
 5. Далее "Generatу new token"
 6. Далее ввести название токена, выбрать срок действи и разрешения после нажать "Generate token"
-Токен хранится в переменной коллекции "token".<br>
+Токен хранится в переменной коллекции "token".
+<br>
 Также у коллекции есть ещё переменные (Variables): <br>
 "baseURL" - адрес на который делать API запросы<br>
 "user" - имя пользователя GitHub<br>
 "repo" - имя репозитория пользователя в GitHub<br>
-"i.numb" - номер созданного issue<br>
+"i.numb" - номер созданного issue для передачи между запросами<br>
 <br>
 <a href="https://github.com/stalker2rus/QA/blob/3a70d9eb7c8381ed0340e52daaffc8fd06b2013f/%D0%A2%D0%B5%D1%81%D1%82%20%D0%BF%D0%BB%D0%B0%D0%BD.pdf")>Ссылка</a> на Postman коллекцию
 <br> 
